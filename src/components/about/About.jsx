@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css'
-import Me from '../../assets/me_about.jpg'
+import Me from '../../assets/about_me_pic.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {MdAttachMoney} from 'react-icons/md'
@@ -35,7 +35,7 @@ function About(props) {
                         </article>
                     </div>
                     <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet ab deserunt reprehenderit perferendis? Voluptatibus eaque unde repudiandae dolor quos itaque eveniet quod. Dolores ipsa natus distinctio repellat nobis numquam incidunt.
+                        Software Engineer and UX/UI developer with experience in Ruby on Rails and JavaScript based programming. More than  10+ years of professional experience in graphic design, UI design and UX research. Thrive in a project management and design environment, helping companies create visually attractive and engaging web experiences. Embrace challenges to create creative and innovate software solutions focused on mastery of design principals.
                     </p>
                     <a href='#contact' className='btn btn-primary'>Let's Work Together</a>
                 </div>
